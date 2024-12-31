@@ -38,11 +38,6 @@ Brain tumor segmentation is a critical step in medical image analysis, aiding in
 
 ---
 
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/<your-username>/brain-tumor-segmentation-3d-unet.git
-   cd brain-tumor-segmentation-3d-unet
-
 Download the BraTS2020 dataset:
 Obtain the dataset from BraTS2020 Dataset and extract it to a folder.
 
